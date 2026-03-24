@@ -1,8 +1,8 @@
 class Solution:
     def largestAltitude(self, gain):
 
-        current = 0       # độ cao hiện tại
-        maxHeight = 0     # độ cao cao nhất
+        current = 0       # Độ cao hiện tại
+        maxHeight = 0     # Độ cao cao nhất
 
         for g in gain:
 
